@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏼 Hi there! I'm Jester Lumacad ([@mrjxtr](https://mrjxtr.dev/) | [@mrjx-dev](https://github.com/mrjx-dev))
+# 👋🏼 Hi there! I'm JV Gonzales ([@bloxofcode](https://localhost.dev/) | [@bloxofcode](https://github.com/bloxofcodes))
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
@@ -35,14 +35,14 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 ---
 
 <div align="center">
-  <a href="https://github.com/mrjxtr?tab=repositories">
+  <a href="https://github.com/bloxofcodes?tab=repositories">
     <img 
       style="height: 200px; width:355px;"
       height=200
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&hide_rank=true&show_icons=true" />
+      src="https://github-readme-stats.vercel.app/api?username=bloxofcodes&theme=apprentice&hide_rank=true&show_icons=true" />
   </a>
-  <a href="https://github.com/mrjxtr?tab=repositories">
+  <a href="https://github.com/bloxofcodes?tab=repositories">
     <img
       style="height: 200px; width:355px;"
       height=200
@@ -55,7 +55,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 
 <br>
 
-<div align="center">
+<!---<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
@@ -65,7 +65,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrjxtr.dev@gmail.com)
 
-</div>
+</div> --/>
 
 <!---
 ---
